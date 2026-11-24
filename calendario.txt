@@ -1,1 +1,1 @@
-lunes : estudiar
+lunes: estuiar git
